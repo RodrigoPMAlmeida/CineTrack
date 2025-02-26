@@ -1,6 +1,7 @@
-# MovieHub
+# CineTrack
 
-Uma plataforma web para os amantes do cinema! Com o MovieHub, os usuários podem procurar seus filmes favoritos, avaliá-los, deixar um comentário para a próxima vez que forem assistir e adicioná-los à sua lista de favoritos.
+
+Uma plataforma web para os amantes do cinema! Com o CineTrack, você vai poder procurar seus filmes favoritos, avaliá-los, deixar um comentário para a próxima vez que forem assistir e adicioná-los à sua lista de favoritos.
 
 ## Funcionalidades
 
@@ -12,9 +13,14 @@ Uma plataforma web para os amantes do cinema! Com o MovieHub, os usuários podem
 
 ## Tecnologias Utilizadas
 
-- Frontend: [React]![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-- Backend: [Node.js]![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- Banco de Dados: [MySQL]![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- Frontend: [React]
+        ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+- Backend: [Node.js]
+        ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+- Banco de Dados: [MySQL]
+        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Integrantes do Projeto
 
