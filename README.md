@@ -13,14 +13,11 @@ Uma plataforma web para os amantes do cinema! Com o CineTrack, você vai poder p
 
 ## Tecnologias Utilizadas
 
-- Frontend: [React]
-        ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-- Backend: [Node.js]
-        ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- Frontend: [React]![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white)
+- Backend: [Node.js]![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
+- Banco de Dados: [MySQL] ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
 
-- Banco de Dados: [MySQL]
-        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Integrantes do Projeto
 
