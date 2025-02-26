@@ -12,13 +12,13 @@ Uma plataforma web para os amantes do cinema! Com o MovieHub, os usuários podem
 
 ## Tecnologias Utilizadas
 
-- Frontend: [React]
-- Backend: [Node.js]
-- Banco de Dados: [MySQL]
+- Frontend: [React]![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+- Backend: [Node.js]![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- Banco de Dados: [MySQL]![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Integrantes do Projeto
 
-- [Mateus de Oliveira Gomes](https://github.com/matus014)
+- [Mateus de Oliveira Gomes](https://github.com/matus014) 
 - [Rodrigo Almeida](https://github.com/RodrigoPMAlmeida)
 
 
@@ -34,11 +34,11 @@ Uma plataforma web para os amantes do cinema! Com o MovieHub, os usuários podem
    ```
 3. Instale as dependências:
    ```bash
-   npm install  # ou yarn install
+   npm install  ou yarn install
    ```
 4. Inicie o servidor de desenvolvimento:
    ```bash
-   npm start  # ou yarn start
+   npm start  ou yarn start
    ```
 
 
