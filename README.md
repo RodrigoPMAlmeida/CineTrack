@@ -13,7 +13,7 @@ Uma plataforma web para os amantes do cinema! Com o MovieHub, os usuários podem
 ## Tecnologias Utilizadas
 
 
-- Frontend: [React]![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white)
+- Frontend: [React]![React]([https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white](https://pt-br.legacy.reactjs.org/))
 - Backend: [Node.js]![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 - Banco de Dados: [MySQL] ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
 
