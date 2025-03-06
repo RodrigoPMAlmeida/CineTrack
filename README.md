@@ -43,6 +43,9 @@ Uma plataforma web para os amantes do cinema! Com o CineTrack, você vai poder p
    ```bash
    npm start  ou yarn start
    ```
+## Documentação
+
+- **Link**: [CineTrack](https://docs.google.com/document/d/1d6TI-adXFZVk4CRfvtj3xYkDy7CsI9Djv8yj3pLGGug/edit?usp=sharing)
 
 
 
