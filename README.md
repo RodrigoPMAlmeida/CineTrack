@@ -37,7 +37,7 @@ Uma plataforma web para os amantes do cinema! Com o CineTrack, você vai poder p
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd moviehub
+   cd CineTrack
    ```
 3. Instale as dependências:
    ```bash
