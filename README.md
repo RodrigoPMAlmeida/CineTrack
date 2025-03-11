@@ -1,7 +1,7 @@
 # CineTrack
 
 
-Uma plataforma web para os amantes do cinema! Com o CineTrack, você vai poder procurar seus titulos filmes favoritos, avaliá-los, deixar um comentário para a próxima vez que forem assistir e adicioná-los à sua lista de favoritos.
+Uma plataforma web para os amantes do cinema! Com o CineTrack, você vai poder procurar seus titulos de filmes favoritos, avaliá-los, deixar comentarios sobre o filme, adicioná-los à sua lista de favoritos e receber recomendações de titulos.
 
 ## Funcionalidades
 
@@ -11,7 +11,7 @@ Uma plataforma web para os amantes do cinema! Com o CineTrack, você vai poder p
 - **Excluir Título**: Remova títulos facilmente da sua lista.  
 - **Visualização**: Marque se assistiu ao filme ou não.  
 - **Avaliação**: Dê uma nota aos filmes que assistiu.  
-- **Comentar**: Registre alguma observação sobre o filme.  
+- **Comentar**: Registre alguma observação sobre o filme e vizualize o comentarios de outros usuarios.  
 - **Favoritos**: Crie sua própria lista de filmes favoritos para acessar ou excluir facilmente.
 
 
