@@ -1,5 +1,5 @@
 import React from 'react';
-import './Cadastrar.css'; // Import the CSS file
+import './css/Cadastrar.css'; // Import the CSS file
 import fundo from '../assets/fundo.png'
 import logo from '../assets/logoReversa.png'
 const Cadastrar=()=>{
