@@ -78,6 +78,7 @@ body {
 .rodape-formulario {
     font-size: 0.975rem;
     margin-bottom: 2rem;
+    font-size: 30px;
 }
 .rodape-formulario a {
     color: #2563eb;
@@ -117,11 +118,11 @@ body {
     display: block; /* Para evitar espaços em branco abaixo da imagem */
 }
 
-ul{
+.mensagem{
     margin-top: 5rem;
 }
 
- ul li {
+.descricao {
     display: flex;
     align-items: center;
     margin-bottom: 2rem;

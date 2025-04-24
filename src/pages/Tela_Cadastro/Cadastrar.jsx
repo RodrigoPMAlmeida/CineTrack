@@ -1,7 +1,7 @@
 import React from 'react';
-import './css/Cadastrar.css'; // Import the CSS file
-import fundo from '../assets/fundo.png'
-import logo from '../assets/logoReversa.png'
+import './Cadastrar.css'; // Import the CSS file
+import fundo from '../../assets/fundo.png'
+import logo from '../../assets/logoReversa.png'
 const Cadastrar=()=>{
     return (
 <div class="container">
@@ -39,17 +39,17 @@ const Cadastrar=()=>{
      <div class="logo-div">
      <img alt="logo" height={"200rem"} src={logo}/> 
      </div>
-     <ul>
-      <li>
+     <ul className='mensagem'>
+      <li className ="descricao">
        🔎Busca de Filmes: Pesquise por títulos, diretores, gêneros e muito mais.
       </li>
-      <li>
+      <li className ="descricao">
        ⭐Avaliação: Dê uma nota aos filmes que assistiu.
       </li>
-      <li>
+      <li className ="descricao">
        📋Comentar: Deixe registrado alguma observação sobre o filme.
       </li>
-      <li>
+      <li className ="descricao">
        ❤️Favoritos: Crie sua própria lista de filmes favoritos para acessar facilmente.
       </li>
      </ul>

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import "./css/Cadastrar.css";
-import fundo from "../assets/fundo.png";
-import logo from "../assets/logoReversa.png";
+import "../Tela_Cadastro/Cadastrar.css";
+import fundo from '../../assets/fundo.png'
+import logo from '../../assets/logoReversa.png'
 
 export default function AuthScreen() {
   const [isLogin, setIsLogin] = useState(true);
@@ -27,7 +27,7 @@ export default function AuthScreen() {
             </form>
             <p className="rodape-formulario">
               Não tem uma conta?
-              <span className="text-blue-600 cursor-pointer" onClick={() => setIsLogin(false)}>
+              <span  style={{ color: "blue",   cursor:"pointer"}} onClick={() => setIsLogin(false)}>
                 cadastre-se aqui →
               </span>
             </p>
@@ -47,7 +47,7 @@ export default function AuthScreen() {
             </form>
             <p className="rodape-formulario">
               Já possui conta?
-              <span className="text-blue-600 cursor-pointer" onClick={() => setIsLogin(true)}>
+              <span style={{ color: "blue", cursor:"pointer"}}  onClick={() => setIsLogin(true)}>
                 entre aqui →
               </span>
             </p>
@@ -61,11 +61,19 @@ export default function AuthScreen() {
             <div className="logo-div">
               <img alt="logo" height="200rem" src={logo} />
             </div>
-            <ul>
-              <li>🔎Busca de Filmes: Pesquise por títulos, diretores, gêneros e muito mais.</li>
-              <li>⭐Avaliação: Dê uma nota aos filmes que assistiu.</li>
-              <li>📋Comentar: Deixe registrado alguma observação sobre o filme.</li>
-              <li>❤️Favoritos: Crie sua própria lista de filmes favoritos para acessar facilmente.</li>
+                  <ul className='mensagem'>
+              <li className ="descricao">
+              🔎Busca de Filmes: Pesquise por títulos, diretores, gêneros e muito mais.
+              </li>
+              <li className ="descricao">
+              ⭐Avaliação: Dê uma nota aos filmes que assistiu.
+              </li>
+              <li className ="descricao">
+              📋Comentar: Deixe registrado alguma observação sobre o filme.
+              </li>
+              <li className ="descricao">
+              ❤️Favoritos: Crie sua própria lista de filmes favoritos para acessar facilmente.
+              </li>
             </ul>
           </div>
         </div>
